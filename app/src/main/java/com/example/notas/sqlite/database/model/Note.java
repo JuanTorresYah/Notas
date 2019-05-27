@@ -1,6 +1,7 @@
 package com.example.notas.sqlite.database.model;
 
 public class Note {
+
     public static final String TABLE_NAME = "notes";
 
     public static final String COLUMN_ID = "id";
